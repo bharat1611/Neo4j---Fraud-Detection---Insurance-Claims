@@ -38,8 +38,10 @@ Neo4j is a means to use a graph database and apply it to the real-world applicat
 
 ## Tools Used :
 
-Following are the tools used to complete this project: 
+Following are the tools used to complete this project:
+
 **•	Google Colab:** It is a product from Google Research. Colab allows anybody to write and execute python code through the browser without the need to install any software or plugins. It is easy to use, efficient, and robust.
+
 **•	Neo4j:** It is an open-source, NoSQL graph database that allows the users to store, relate, and display data in the form of graphs for better visualization and understanding. It uses the language cypher.
 
 

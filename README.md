@@ -36,7 +36,7 @@ We use a dataset (insurance_claims.csv) comprising of 1000 rows, and 36 columns 
 Before diving into Neo4j, let us see what a graph database is. A graph database stores nodes and relationships instead of tables, or documents. Data is stored just like you might sketch ideas on a whiteboard. Your data is stored without restricting it to a pre-defined model, allowing a very flexible way of thinking about and using it. 
 Neo4j is a means to use a graph database and apply it to the real-world applications. Think of it as a software that helps us use graph database properly and effectively. Neo4j uses the language cypher to communicate with the data, be it in any format (i.e. .csv, .dump etc)
 
-# Tools Used :
+## Tools Used :
 
 Following are the tools used to complete this project: 
 **•	Google Colab:** It is a product from Google Research. Colab allows anybody to write and execute python code through the browser without the need to install any software or plugins. It is easy to use, efficient, and robust.

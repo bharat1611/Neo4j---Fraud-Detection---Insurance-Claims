@@ -61,7 +61,7 @@ Machine Learning is gives us many models/algorithms that we can use to solve suc
 
 **•	Outliers Detection:** We then detect the outliers and train our categorical variables for the classification algorithm.
 
-**•	Use ML algorithm: After everything has been done, we apply the ML classification algorithm to test our model. 
+**•	Use ML algorithm:** After everything has been done, we apply the ML classification algorithm to test our model. 
 
 
 

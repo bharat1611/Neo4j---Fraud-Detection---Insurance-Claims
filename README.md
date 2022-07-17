@@ -45,6 +45,24 @@ Following are the tools used to complete this project:
 **•	Neo4j:** It is an open-source, NoSQL graph database that allows the users to store, relate, and display data in the form of graphs for better visualization and understanding. It uses the language cypher.
 
 
+## How to predict fraud using ML : 
+
+Machine Learning is gives us many models/algorithms that we can use to solve such problems. The steps are in the following order :
+
+•	 Import the libraries and dataset: We first import the necessary libraries and the dataset that will be required. In this case we use pandas, numpy, and seaborn. We then import our dataset – ‘insurance_claims.csv’ by using
+
+ df = pd.read_csv('/content/insurance_claims.csv')
+ 
+**•	Pre-Processing Data:** After importing the dataset, we pre-process the data to look for missing values, NaN values and to check the datatypes used in the dataset.
+
+**•	Visualize Missing Values:** After the pre-processing, we look at the data in the form of graphs and see the missing values, to better understand our dataset.
+
+**•	Handling Missing Values:** We then handle the missing values by replacing then with 0. We then drop the unnecessary labels from our dataset.
+
+**•	Outliers Detection:** We then detect the outliers and train our categorical variables for the classification algorithm.
+
+**•	Use ML algorithm: After everything has been done, we apply the ML classification algorithm to test our model. 
+
 
 
 

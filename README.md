@@ -87,7 +87,9 @@ CREATE (customer)-[:MAKE]->(fraud);
 
 **Then Run this to match the nodes :**
 
-```match (n) return (n) LIMIT 40```
+```
+match (n) return (n) LIMIT 40
+```
 
 ## Neo4j Graph: 
 

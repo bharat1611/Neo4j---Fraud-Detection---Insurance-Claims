@@ -1,0 +1,300 @@
+﻿[
+  {
+    "a": {
+"identity": 0,
+"labels": [
+        "Incident_T"
+      ],
+"properties": {
+"id": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 1,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 2,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 3,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Vehicle Theft"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 4,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 5,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 6,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 7,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 8,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 9,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 10,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 11,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 12,
+"labels": [
+        "Incident_T"
+      ],
+"properties": {
+"id": "Parked Car"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 13,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Parked Car"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 16,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 17,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 18,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 19,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 20,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 21,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 22,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 23,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "FEMALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 24,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Multi-vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 25,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  },
+  {
+    "a": {
+"identity": 26,
+"labels": [
+        "Customer"
+      ],
+"properties": {
+"sex": "MALE",
+"incident": "Single Vehicle Collision"
+      }
+    }
+  }
+]

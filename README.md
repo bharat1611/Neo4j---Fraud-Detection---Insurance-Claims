@@ -85,4 +85,17 @@ CREATE (customer: Customer {Occupation: line.insured_occupation, sex: line.insur
 CREATE (customer)-[:MAKE]->(fraud);
 ```
 
-match (n) return (n) LIMIT 40
+**Then Run this to match the nodes :**
+
+```match (n) return (n) LIMIT 40```
+
+## Neo4j Graph: 
+
+![image](https://user-images.githubusercontent.com/95923021/179420256-d59a99a2-2201-49a7-b8b5-6bfcfbadeb4b.png)
+
+
+
+## Conclusion:
+
+Hope this project helped !!!
+You can contact me incase of further queries.

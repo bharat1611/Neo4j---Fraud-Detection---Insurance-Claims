@@ -64,5 +64,25 @@ Machine Learning is gives us many models/algorithms that we can use to solve suc
 **•	Use ML algorithm:** After everything has been done, we apply the ML classification algorithm to test our model. 
 
 
+## Random Forest Classification Model :
+
+ Random Forest is a classifier that contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset. Instead of relying on one decision tree, the random forest takes the prediction from each tree and based on the majority votes of predictions, and it predicts the final output.
+
+![image](https://user-images.githubusercontent.com/95923021/179419556-addc864d-1d04-47a0-97fa-9061afb28ef3.png)
 
 
+## Neo4j Representation : 
+
+We then upload the dataset on the neo4j browser. We create labels and mark relationships between different labels in the dataset so that we can show it in the form of a linked graph.
+ 
+```
+LOAD CSV WITH HEADERS FROM
+file:///refined_dataset.csv' AS line
+WITH line
+MERGE (fraud: Fraud {id: line.fraud_reported})
+MERGE (incident_t: Incident_T {id: line.incident_type})
+CREATE (customer: Customer {Occupation: line.insured_occupation, sex: line.insured_sex, incident: line.incident_type})-[:WITH]->(incident_t)
+CREATE (customer)-[:MAKE]->(fraud);
+```
+
+match (n) return (n) LIMIT 40

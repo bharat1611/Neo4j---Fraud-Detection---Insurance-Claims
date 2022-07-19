@@ -6,4 +6,5 @@ MERGE (incident_t: Incident_T {id: line.incident_type})
 CREATE (customer: Customer {Occupation: line.insured_occupation, sex: line.insured_sex, incident: line.incident_type})-[:WITH]->(incident_t)
 CREATE (customer)-[:MAKE]->(fraud);
 
+
 match (n) return (n) LIMIT 40

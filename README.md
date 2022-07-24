@@ -99,5 +99,5 @@ match (n) return (n) LIMIT 40
 
 ## Conclusion:
 
-Hope this project helped !!!
+Hope this project helps !!!
 You can contact me incase of further queries.
